@@ -1,0 +1,25 @@
+Demo Applicattion:
+Unzip StickperPapers.zip to 
+XJGSDMFaceDemo-win32\StickperPapers
+XJGSDMFaceDemo-win64\StickperPapers
+,then the corresponding application can run.
+
+
+SDK:
+Unzip StickperPapers.zip to 
+XJGSDMFaceSDKProjectDemo-win32\StickperPapers
+XJGSDMFaceSDKProjectDemo-win64\StickperPapers
+,then the corresponding SDK can use sticker papers.
+
+
+演示程序
+将StickperPapers.zip中内容解压并放到
+XJGSDMFaceDemo-win32\StickperPapers
+XJGSDMFaceDemo-win64\StickperPapers
+目录下，对应的程序即可运行
+
+开发平台
+将StickperPapers.zip中内容解压并放到
+XJGSDMFaceSDKProjectDemo-win32\StickperPapers
+XJGSDMFaceSDKProjectDemo-win64\StickperPapers
+目录下，对应的SDK即可选择贴纸
