@@ -6,7 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		0p0iSStlz6dLQL+vgPwfP1qO0js=
+		KJPEv7a9Jye2eZN8tFk3xKK419o=
+		</data>
+		<key>Default-568h@2x.png</key>
+		<data>
+		poDYGy1JWXBgPH3/wCEBNbVTOks=
 		</data>
 		<key>Frameworks/TestFramework.framework/Headers/Foo.hh</key>
 		<data>
@@ -18,7 +22,7 @@
 		</data>
 		<key>Frameworks/TestFramework.framework/TestFramework</key>
 		<data>
-		ue0fuGMs/WXd0LEXuQQe8SZWhpM=
+		0YN5alHdHlrfVa59Jxb4oNZEvJo=
 		</data>
 		<key>Frameworks/TestFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,11 +30,11 @@
 		</data>
 		<key>Frameworks/XJGARSDKFramework.framework/.DS_Store</key>
 		<data>
-		6PbahegYdD+RTbqIU7cgaGNByCE=
+		WwAgqjM8vbGuROF4KxoHDsphWTE=
 		</data>
 		<key>Frameworks/XJGARSDKFramework.framework/Headers/XJGArSdk.h</key>
 		<data>
-		DEkgrdQUDNV6Ig2aIeobqMpL8cI=
+		sO4BK5Onl616nVjZhNautJJwx3o=
 		</data>
 		<key>Frameworks/XJGARSDKFramework.framework/Info.plist</key>
 		<data>
@@ -38,15 +42,15 @@
 		</data>
 		<key>Frameworks/XJGARSDKFramework.framework/XJGARSDKFramework</key>
 		<data>
-		hxCFIqNpygrn6fECBTczb1QPmUs=
+		i9jynn/WEitTxfO5ScFgV/4ASC8=
 		</data>
 		<key>Frameworks/XJGARSDKFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xcDMEgGJHIMlEWn5wNgnfr4pTy4=
+		JTAxwst5H2bcEQ1bJDu4m1pnUlE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2vDA0NYB7RXkETdLOw1oVOFPcXE=
+		mX/8/be+ZGSXcfZzb9UbfH8l9BU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -54,43 +58,43 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		alJ74rvJxORmKSk9N/xwGL9Y4Oo=
+		qQ8xkBhHXqGWPbbhjPubtJ+k3oQ=
 		</data>
 		<key>resbundle.bundle/Info.plist</key>
 		<data>
-		TdC+dY/ifMUId2n+Y1lyrlzvmjc=
+		0HV3HZ9XOXE/0VGogtmECk0eZAM=
 		</data>
 		<key>resbundle.bundle/ResForShader.zip</key>
 		<data>
-		hVHqjtr9Mgn2U9chqqwXlnr+9s8=
+		sdW1zZgAcJ6GQ1Misq4x7iiLi/s=
 		</data>
 		<key>resbundle.bundle/angel.zip</key>
 		<data>
-		BDby79ua4bdWMqKFFI/kgHj8Qhg=
+		kP7exyR62fge+2493JzUlsOTn64=
 		</data>
 		<key>resbundle.bundle/caishen.zip</key>
 		<data>
-		xS4kHGrLNFnzGZX+FGBQEp+T9dI=
+		zBlFpIFVTTGGLQ+eyzHDlJmsCVQ=
 		</data>
 		<key>resbundle.bundle/cangou.zip</key>
 		<data>
-		SZS2Amnj5mwUAQCPKodjDaSVfys=
+		u7gryMpjMvzG/2RsfiF79gJC5iw=
 		</data>
 		<key>resbundle.bundle/com.xjg.facedet.model.bin</key>
 		<data>
 		vao4vMyS7dGy39jflRVTSir2GfY=
 		</data>
-		<key>resbundle.bundle/com.xjg.landmark.model.100-50-10-5percent.L1000.0-F5-12-4-1.0-2-2-2iter3.bin</key>
+		<key>resbundle.bundle/com.xjg.landmark.model.100-50-10-5percent.L100.0-F5-12-4-1.0-2-2-2iter3.bin</key>
 		<data>
-		H8V4JGuIYs4b9JPrZRO5jrGTFUU=
+		SWNJsnVNZA9FhWkojEMnf5Q5gsA=
 		</data>
 		<key>resbundle.bundle/diving.zip</key>
 		<data>
-		Yid9Rc2i8jj3oiEBSulbYDm8No8=
+		FL7f1jsTNbmAAh536nsM4GzL0EI=
 		</data>
 		<key>resbundle.bundle/stpaper900224.zip</key>
 		<data>
-		N7Y2dfsWRcLq4sDokFtntDlR3vw=
+		Ga4SmsNod6x+1ams40FQmEef86I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,11 +103,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0p0iSStlz6dLQL+vgPwfP1qO0js=
+			KJPEv7a9Jye2eZN8tFk3xKK419o=
 			</data>
 			<key>hash2</key>
 			<data>
-			X8IkIcWCinHinePg7tjWFGajggkjZJ5nWs3bxI0iFCs=
+			zs+L9GO2AQEJUB13WcSnSR3mZD3MWycoKUlnb6ujIFI=
+			</data>
+		</dict>
+		<key>Default-568h@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			poDYGy1JWXBgPH3/wCEBNbVTOks=
+			</data>
+			<key>hash2</key>
+			<data>
+			UdHegDh1HZlDpSEYtzMl4sjA9q8uvK4K9OL0sRTFD6M=
 			</data>
 		</dict>
 		<key>Frameworks/TestFramework.framework/Headers/Foo.hh</key>
@@ -132,11 +147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ue0fuGMs/WXd0LEXuQQe8SZWhpM=
+			0YN5alHdHlrfVa59Jxb4oNZEvJo=
 			</data>
 			<key>hash2</key>
 			<data>
-			mtgfIzTgfp4i8hGAFUMmbrI3jmCVllI+Lt7CDnplDS0=
+			q6pC2X3dKMB9+1wgk+0wzaQgVmFJTUBD/RIWdPYyuwg=
 			</data>
 		</dict>
 		<key>Frameworks/TestFramework.framework/_CodeSignature/CodeResources</key>
@@ -154,11 +169,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DEkgrdQUDNV6Ig2aIeobqMpL8cI=
+			sO4BK5Onl616nVjZhNautJJwx3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			z1YKDRYVnRbI+vvrvtbSUVR+eCpTQVvvfwuVYMNRi6o=
+			Ay3BN7PS3vspmVVXuI/U284p/Rbg7S1A5oeyazqIzSA=
 			</data>
 		</dict>
 		<key>Frameworks/XJGARSDKFramework.framework/Info.plist</key>
@@ -176,88 +191,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hxCFIqNpygrn6fECBTczb1QPmUs=
+			i9jynn/WEitTxfO5ScFgV/4ASC8=
 			</data>
 			<key>hash2</key>
 			<data>
-			NxDlM5rqNxc8iqfxULCuBtTXgFXdr2y6lweXVqnZoi0=
+			pNw84SkpjFrfLfJMyuQ5Q6cF/Ay/AVIzjbb8GzIqII4=
 			</data>
 		</dict>
 		<key>Frameworks/XJGARSDKFramework.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xcDMEgGJHIMlEWn5wNgnfr4pTy4=
+			JTAxwst5H2bcEQ1bJDu4m1pnUlE=
 			</data>
 			<key>hash2</key>
 			<data>
-			q8f+gW4vmbI4kdjpR/LEWoFg/fghZJK+7TXdLe3bvtQ=
+			Vip7GSZhlWvOS9fi6XEyVZCcim9QVBZR2aLhr0LlqP4=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			alJ74rvJxORmKSk9N/xwGL9Y4Oo=
+			qQ8xkBhHXqGWPbbhjPubtJ+k3oQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8dvPMkah6QFTgwxuPyfL+U/rC1cCcZn5AjvMoN15V3g=
+			zOSOpEPQPwqw9JPq2FRqpU6MkpHeWObhL073E8tUC1Y=
 			</data>
 		</dict>
 		<key>resbundle.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TdC+dY/ifMUId2n+Y1lyrlzvmjc=
+			0HV3HZ9XOXE/0VGogtmECk0eZAM=
 			</data>
 			<key>hash2</key>
 			<data>
-			EHV5usedpphlmvWkoHuLKutzLVEjoZTYElt+cF+NV8U=
+			mXIE33mQOM2Doja1Nt8+IF/uiaDOMy9j0vZsbXHXkN0=
 			</data>
 		</dict>
 		<key>resbundle.bundle/ResForShader.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hVHqjtr9Mgn2U9chqqwXlnr+9s8=
+			sdW1zZgAcJ6GQ1Misq4x7iiLi/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			vO3QrRvIe2NlYkMSJbgPCKWJTk4bmmwfctGhUn4a+40=
+			uKl12AUUk6y7ZL5+b6S1yfDtee/206kqkX4TV9W5zpw=
 			</data>
 		</dict>
 		<key>resbundle.bundle/angel.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BDby79ua4bdWMqKFFI/kgHj8Qhg=
+			kP7exyR62fge+2493JzUlsOTn64=
 			</data>
 			<key>hash2</key>
 			<data>
-			78WNwm+Amc6gOD9X4VYy97gBalJhae8akmwIQsVMKUc=
+			vzfbRPmbdV3KANI7/QHbPz1TRw9M/QL2dC+rkJ8S3Ec=
 			</data>
 		</dict>
 		<key>resbundle.bundle/caishen.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xS4kHGrLNFnzGZX+FGBQEp+T9dI=
+			zBlFpIFVTTGGLQ+eyzHDlJmsCVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			RZMCs3RV5FaXpnTiKfpoz1cohm1U1sKRAWAIXyR2R9Q=
+			boYcedrsti41gblgIRcjyAeQAsZnKUicDBiTqZjQjs4=
 			</data>
 		</dict>
 		<key>resbundle.bundle/cangou.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SZS2Amnj5mwUAQCPKodjDaSVfys=
+			u7gryMpjMvzG/2RsfiF79gJC5iw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/fmrqdNZQjkBSauhgDDReN6j0vs1kdoYzL7ZvCapGtk=
+			Z5NODkb4B6xSccHmoItrJ9qATe5Y/bgdug2QAM5PPvw=
 			</data>
 		</dict>
 		<key>resbundle.bundle/com.xjg.facedet.model.bin</key>
@@ -271,37 +286,37 @@
 			2AFJk+cpjHsYZdH4uFXW2/TsXICL+HniCRq2g3q/kM0=
 			</data>
 		</dict>
-		<key>resbundle.bundle/com.xjg.landmark.model.100-50-10-5percent.L1000.0-F5-12-4-1.0-2-2-2iter3.bin</key>
+		<key>resbundle.bundle/com.xjg.landmark.model.100-50-10-5percent.L100.0-F5-12-4-1.0-2-2-2iter3.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H8V4JGuIYs4b9JPrZRO5jrGTFUU=
+			SWNJsnVNZA9FhWkojEMnf5Q5gsA=
 			</data>
 			<key>hash2</key>
 			<data>
-			j04+ccsaCEEnORz6TvJ8FukOGktkuUV55xjs+H10bXk=
+			agpOWR5If3eBniKkV3ZKasfdHxbmRginO+wv2xDDPW0=
 			</data>
 		</dict>
 		<key>resbundle.bundle/diving.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Yid9Rc2i8jj3oiEBSulbYDm8No8=
+			FL7f1jsTNbmAAh536nsM4GzL0EI=
 			</data>
 			<key>hash2</key>
 			<data>
-			W+RK2rkQip7j8Lc3/R9IwqoFDrMV+YBvawhlmFvApEk=
+			Hb/u6dU+w5Q7p7L6vL6SHcATiuAlaRAyuL11nHXsMc0=
 			</data>
 		</dict>
 		<key>resbundle.bundle/stpaper900224.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N7Y2dfsWRcLq4sDokFtntDlR3vw=
+			Ga4SmsNod6x+1ams40FQmEef86I=
 			</data>
 			<key>hash2</key>
 			<data>
-			aLy0Lsj1iH0evZBDu20GzxjZKkAXEce54zmWzTPqf3Y=
+			1jsEgDZ165PdQW4aKTb6wg3oSBxiJOJiXtT0CswGxPo=
 			</data>
 		</dict>
 	</dict>
